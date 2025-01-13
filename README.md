@@ -4,9 +4,8 @@ A beginner-friendly portfolio website showcasing my skills, projects, and intere
 
 Features:
 ----------
-Home, About, Projects, and Contact sections.
-Responsive design for viewing on various devices.
-Basic animations and interactive elements for a modern look.
+1. Home, About, Projects, and Contact sections.
+2. Responsive design for viewing on various devices.
 
 Tech Stack:
 ------------
@@ -14,7 +13,7 @@ HTML, CSS
 
 How to View:
 ---------------
-Clone the repository: git clone [repo URL]
-Open the index.html file in your browser.
+1. Clone the repository: git clone [repo URL]
+2. Open the index.html file in your browser.
 
 This project marks the start of my learning journey and reflects my enthusiasm for web development!

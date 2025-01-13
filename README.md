@@ -13,7 +13,7 @@ HTML, CSS
 
 How to View:
 ---------------
-1. Clone the repository: git clone [repo URL]
+1. Clone the repository: git clone [https://github.com/DynamicHarekrushna/My-Port-folio.git]
 2. Open the index.html file in your browser.
 
 This project marks the start of my learning journey and reflects my enthusiasm for web development!
